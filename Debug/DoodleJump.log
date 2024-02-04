@@ -1,0 +1,50 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestTask.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Platform.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sources/Platform/Platform.cpp')
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(12,5): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(5,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(32,24): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(48,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(48,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(57,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(57,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sources/Player/Player.cpp')
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(16,3): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.h(4,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(30,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(31,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(62,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(74,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(74,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(83,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(83,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(89,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(89,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(101,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(102,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(102,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(107,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(107,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(120,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(120,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(123,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(123,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(15,5): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Framework.h(17,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(67,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(68,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  DoodleJump.vcxproj -> C:\Users\Tetyana\Desktop\DoodleJump\Debug\DoodleJump.exe

@@ -1,0 +1,100 @@
+﻿  Enemy.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  game.cpp
+  (compiling source file 'Sources/Enemy/Enemy.cpp')
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Enemy\Enemy.cpp(15,9): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.h(5,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Enemy\Enemy.cpp(39,31): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Enemy\Enemy.cpp(40,25): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Enemy\Enemy.cpp(87,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Enemy\Enemy.cpp(87,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Pickup.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(14,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(15,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(19,2): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.h(4,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(46,54): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(46,39): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(62,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Pickup\Pickup.cpp(63,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Platform.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sources/Platform/Platform.cpp')
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(12,5): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(5,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(32,24): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(48,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(48,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(57,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Platform\Platform.cpp(57,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sources/Player/Player.cpp')
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(16,3): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.h(4,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(30,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(31,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(62,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(74,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(74,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(83,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(83,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(89,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(89,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(101,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(102,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(102,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(107,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(107,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(120,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(120,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(123,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.cpp(123,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(15,5): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+  C:\Users\Tetyana\Desktop\DoodleJump\Sources\Framework.h(17,7):
+  see declaration of 'Sprite'
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(67,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Projectile\Projectile.cpp(68,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MyFramework.cpp
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\Player\Player.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sources/MyFramework.cpp')
+  
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\MyFramework.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\MyFramework.cpp(155,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tetyana\Desktop\DoodleJump\Sources\MyFramework.cpp(155,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+Projectile.obj : error LNK2001: unresolved external symbol __imp_createSprite
+Enemy.obj : error LNK2001: unresolved external symbol __imp_createSprite
+Pickup.obj : error LNK2001: unresolved external symbol __imp_createSprite
+Platform.obj : error LNK2001: unresolved external symbol __imp_createSprite
+Player.obj : error LNK2001: unresolved external symbol __imp_createSprite
+Projectile.obj : error LNK2001: unresolved external symbol __imp_drawSprite
+Enemy.obj : error LNK2001: unresolved external symbol __imp_drawSprite
+Pickup.obj : error LNK2001: unresolved external symbol __imp_drawSprite
+Platform.obj : error LNK2001: unresolved external symbol __imp_drawSprite
+Player.obj : error LNK2001: unresolved external symbol __imp_drawSprite
+Enemy.obj : error LNK2019: unresolved external symbol __imp_setSpriteSize referenced in function "public: void __cdecl Enemy::ConstructSprite(void)" (?ConstructSprite@Enemy@@QEAAXXZ)
+Pickup.obj : error LNK2001: unresolved external symbol __imp_setSpriteSize
+Platform.obj : error LNK2001: unresolved external symbol __imp_setSpriteSize
+Projectile.obj : error LNK2001: unresolved external symbol __imp_setSpriteSize
+game.obj : error LNK2019: unresolved external symbol __imp_run referenced in function main
+Pickup.obj : error LNK2019: unresolved external symbol __imp_getTickCount referenced in function "public: void __cdecl Pickup::DrawSprite(class std::vector<class Enemy,class std::allocator<class Enemy> > &,int,int)" (?DrawSprite@Pickup@@QEAAXAEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@HH@Z)
+Platform.obj : error LNK2001: unresolved external symbol __imp_getTickCount
+MyFramework.obj : error LNK2001: unresolved external symbol __imp_getTickCount
+MyFramework.obj : error LNK2019: unresolved external symbol __imp_drawTestBackground referenced in function "public: virtual bool __cdecl MyFramework::Tick(void)" (?Tick@MyFramework@@UEAA_NXZ)
+C:\Users\Tetyana\Desktop\DoodleJump\Libs\FrameworkRelease_x86.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Tetyana\Desktop\DoodleJump\x64\Debug\DoodleJump.exe : fatal error LNK1120: 6 unresolved externals

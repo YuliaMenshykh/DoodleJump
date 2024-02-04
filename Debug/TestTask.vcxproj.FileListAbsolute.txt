@@ -1,0 +1,3 @@
+C:\Users\Elizabeth\Desktop\2024_win32\2022_win32\TestTask\Debug\TestTask.exe
+D:\DragonLake\TestTask\Debug\TestTask.exe
+T:\Yulia\DragonLake\TestTask\Debug\TestTask.exe
